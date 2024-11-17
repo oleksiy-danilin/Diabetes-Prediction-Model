@@ -1,4 +1,4 @@
-This directory contains various experiments conducted using an original dataset focused on factors contributing to diabetes.
+This repository contains various experiments conducted using an original dataset focused on factors contributing to diabetes.
 The purpose of this collection is to demonstrate proficiency with essential Python packages, such as NumPy, Matplotlib, Seaborn, Scikit-learn, and others, alongside skills in statistical analysis and foundational machine learning (ML).
 The experiments included in this repository are as follows:
   1) Comprehensive Exploratory Data Analysis (EDA) of the diabetes dataset.
